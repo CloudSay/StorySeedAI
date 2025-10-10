@@ -1,0 +1,91 @@
+{
+  "protagonist": {
+    "name": "黄天",
+    "age": 28,
+    "role": "科技公司项目执行",
+    "personality": {
+      "external": "嘴贫自嘲，精于隐忍算计",
+      "internal": "信奉'人不犯我我不犯人'的腹黑原则，护短到不讲道理"
+    },
+    "core_conflict": "从依赖镜中人外挂到独立承担",
+    "special_ability": "【轮盘赌】系统（已激活）",
+    "signature_lines": [
+      "年入百万肤白貌美大长腿...（完整版富婆祷告）",
+      "别用宋体"
+    ],
+    "symbolic_items": [
+      {
+        "name": "U盘帽",
+        "function": "失败工作证据/笑点道具"
+      },
+      {
+        "name": "黑卡",
+        "function": "契约温度指示器"
+      }
+    ]
+  },
+  "heroine": {
+    "name": "张婉清",
+    "age": 26,
+    "role": "市场部品牌主理人（表面）",
+    "hidden_identity": {
+      "title": "家族信托真千金",
+      "constraints": "花岗岩条款（需达成KPI/公益节点/理事会投票解锁资金）"
+    },
+    "core_values": [
+      "合伙人关系",
+      "可验证行动",
+      "信息披露",
+      "边界意识"
+    ],
+    "verbal_quirks": [
+      "把'富婆'换成'合伙人'",
+      "我可以帮，但不做钱包",
+      "凡用我名字的邮件必须抄送"
+    ],
+    "symbolic_items": [
+      {
+        "name": "浅灰羊绒围巾",
+        "traits": "爆米花尾香+冷杉余韵"
+      }
+    ]
+  },
+  "supernatural_entity": {
+    "name": "镜中人",
+    "nature": "理想自我投影/时间回声（保持暧昧）",
+    "manifestation_rules": {
+      "medium": [
+        "反光表面"
+      ],
+      "peak_time": "3:15前后",
+      "limitations": "不直接改造现实"
+    },
+    "ability_types": [
+      "策略建议（三板斧体系）",
+      "信息聚焦重构",
+      "情境沙盘推演"
+    ],
+    "cost_mechanism": {
+      "progression": "Lv1钥匙遗忘 → Lv4记忆黑洞",
+      "critical_failure": "操控他人意志时破音卡顿"
+    }
+  },
+  "supporting_characters": [
+    {
+      "name": "张秃瓢",
+      "role": "直属上司",
+      "arc": "控制狂→ 勉强认可执行能力",
+      "signature_action": "日光灯下摸不存在的刘海"
+    },
+    {
+      "name": "王总",
+      "role": "终极决策者",
+      "decision_criteria": [
+        "可验证性",
+        "风险控制",
+        "时间节点"
+      ],
+      "testing_method": "加压式目标追加"
+    }
+  ]
+}

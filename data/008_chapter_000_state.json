@@ -1,0 +1,45 @@
+{
+  "chapter_index": 0,
+  "protagonist": {
+    "name": "黄天",
+    "age": 28,
+    "level": "项目执行",
+    "status": "活跃",
+    "personality": "嘴贫自嘲，精于隐忍算计，信奉'人不犯我我不犯人'的腹黑原则，护短到不讲道理",
+    "abilities": ["轮盘赌系统（已激活）"],
+    "goal": "从依赖镜中人外挂到独立承担"
+  },
+  "inventory": [
+    {
+      "item_name": "U盘帽",
+      "description": "失败工作证据/笑点道具"
+    },
+    {
+      "item_name": "黑卡",
+      "description": "契约温度指示器"
+    }
+  ],
+  "relationships": [
+    {
+      "name": "张婉清",
+      "relation": "合伙人",
+      "status": "合作中"
+    },
+    {
+      "name": "张秃瓢",
+      "relation": "直属上司",
+      "status": "控制狂→勉强认可"
+    },
+    {
+      "name": "王总",
+      "relation": "终极决策者",
+      "status": "评估中"
+    },
+    {
+      "name": "镜中人",
+      "relation": "超自然存在",
+      "status": "暧昧"
+    }
+  ],
+  "current_plot_summary": "科技公司项目执行黄天拥有'轮盘赌'系统能力，在与镜中人的互动中，开始寻求从依赖外挂到独立承担的转变。他与市场部品牌主理人张婉清形成合伙人关系，共同应对工作挑战。"
+}

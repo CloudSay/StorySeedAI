@@ -1,0 +1,86 @@
+{
+  "core_rules": {
+    "reality_principle": "去神话化法则（解构成功学与完美人设）",
+    "cost_ecosystem": {
+      "tiered_penalties": [
+        "Lv1：生活细节遗忘（钥匙/密码）",
+        "Lv3：人际关系记忆缺损（生日/约定）",
+        "Lv5：核心身份认知空白"
+      ],
+      "recovery_principle": "仅可通过外部证据弥补，不可自然恢复"
+    }
+  },
+  "symbolic_system": {
+    "temporal_motif": {
+      "name": "3:15颤动",
+      "manifestations": [
+        "挂钟指针抖动",
+        "电子屏数字闪烁",
+        "心跳骤停式感知"
+      ],
+      "max_frequency": "每章≤1次显性呈现"
+    },
+    "thermodynamic_indicators": {
+      "obsidian_card": {
+        "states": [
+          "烫：外挂激活/代价加剧",
+          "温：契约平衡期",
+          "冷：自主行动模式"
+        ]
+      }
+    },
+    "relation_anchor": {
+      "cashmere_scarf": {
+        "phase_changes": [
+          "初始态：茶水间暂存（爆米花香）",
+          "裂变态：气味异化（时间线污染）",
+          "终局态：单条存世（沾有焦糖渣）"
+        ]
+      }
+    }
+  },
+  "narrative_constraints": {
+    "prayer_trope": {
+      "evolution_path": [
+        "卷Ⅰ：完整版≤2次 + 合伙人变奏",
+        "卷Ⅱ：禁用期+小额互损暗号",
+        "卷Ⅲ：反写版「不求施舍，只求并肩」"
+      ],
+      "trigger_warning": "张婉清在场时必须转换「富婆」称谓"
+    },
+    "meeting_taboo": [
+      "2章内禁用同类话术会议",
+      "舆情处置需换技法（演练→实战→披露战）",
+      "复盘场景每卷≤3次"
+    ],
+    "supernatural_limits": {
+      "mirror_entity": [
+        "每2章可强召唤≤1次",
+        "关键战役后必须缺席1章",
+        "禁止现实扭曲类建议"
+      ]
+    }
+  },
+  "power_system": {
+    "hero_capabilities": {
+      "core_methodology": "承认错误+时间表+可验证动作",
+      "strategic_weapons": [
+        "三板斧话术结构",
+        "五维提问矩阵（谁/何时/何地/量级/可验证动作）",
+        "信息披露优先级框架"
+      ]
+    },
+    "heroine_resources": {
+      "accessible": [
+        "公益项目通道",
+        "媒体披露模板库",
+        "第三方审计接口"
+      ],
+      "restricted": [
+        "家族信托现金",
+        "个人信用背书",
+        "非公开人脉调用"
+      ]
+    }
+  }
+}
