@@ -4,7 +4,9 @@ from typing import List, Dict, Any, Optional
 import time
 
 # 导入主模块中的必要组件
-from main import LLMCaller, ChapterState
+# from main import LLMCaller, ChapterState
+from modules.llm_manager import LLMCaller
+from modules.data_models import ChapterState
 
 class ContentModerator:
     """内容审查与过滤系统"""
